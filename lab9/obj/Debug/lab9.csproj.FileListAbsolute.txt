@@ -1,0 +1,21 @@
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba9\lab9\lab9\obj\Debug\lab9.pdb
+C:\Users\why_t\Downloads\izotov_L9\lab9\bin\Debug\lab9.exe.config
+C:\Users\why_t\Downloads\izotov_L9\lab9\bin\Debug\lab9.exe
+C:\Users\why_t\Downloads\izotov_L9\lab9\bin\Debug\lab9.pdb
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.exe
+C:\Users\why_t\Downloads\izotov_L9\lab9\obj\Debug\lab9.pdb
